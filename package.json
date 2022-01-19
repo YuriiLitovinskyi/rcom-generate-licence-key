@@ -1,0 +1,19 @@
+{
+  "name": "rcom-generate-licence-key",
+  "version": "1.0.0",
+  "description": "App generates ppk licence key, depended on ppk number and ppk serial number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "firebird"
+  ],
+  "author": "Yurii Litovinskyi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "prompts": "^2.4.2"
+  }
+}

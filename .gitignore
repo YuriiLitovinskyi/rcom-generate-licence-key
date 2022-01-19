@@ -1,0 +1,6 @@
+node_modules/
+index-linux
+index-macos
+index-win.exe
+index.exe
+generate-ppk-licence-key-x64.exe
